@@ -3,7 +3,7 @@ require 'sinatra/base'
 class App < Sinatra::Base
 
 
-  get '/' do 
+  post '/newteam' do 
     erb: 
   end 
 end
